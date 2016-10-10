@@ -1,0 +1,23 @@
+{
+  "name": "kattskatt",
+  "version": "1.0.0",
+  "description": "Skatt för katter",
+  "main": "katt.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansalmgren/KattSkatt.git"
+  },
+  "keywords": [
+    "Katt",
+    "Skatt"
+  ],
+  "author": "Hans Almgren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hansalmgren/KattSkatt/issues"
+  },
+  "homepage": "https://github.com/hansalmgren/KattSkatt#readme"
+}
