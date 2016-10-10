@@ -4,7 +4,7 @@
   "description": "Skatt för katter",
   "main": "katt.js",
   "scripts": {
-    "test": "test"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
