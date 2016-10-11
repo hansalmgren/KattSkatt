@@ -1,23 +1,26 @@
 {
-  "name": "kattskatt",
-  "version": "1.0.0",
-  "description": "Skatt för katter",
-  "main": "katt.js",
-  "scripts": {
-    "test": "node test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hansalmgren/KattSkatt.git"
-  },
-  "keywords": [
-    "Katt",
-    "Skatt"
-  ],
-  "author": "Hans Almgren",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hansalmgren/KattSkatt/issues"
-  },
-  "homepage": "https://github.com/hansalmgren/KattSkatt#readme"
+	"name": "kattskatt",
+	"version": "1.0.0",
+	"description": "Skatt för katter",
+	"main": "katt.js",
+	"bin": {
+		"kattskatt": "./bin/kattskatt.js"
+	},
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hansalmgren/KattSkatt.git"
+	},
+	"keywords": [
+		"Katt",
+		"Skatt"
+	],
+	"author": "Hans Almgren",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/hansalmgren/KattSkatt/issues"
+	},
+	"homepage": "https://github.com/hansalmgren/KattSkatt#readme"
 }
